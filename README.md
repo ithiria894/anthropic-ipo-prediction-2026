@@ -19,4 +19,4 @@ Data, code and figures are in `data/`, `code/`, `figures/`; every number in the 
 
 - GitHub: this repository; forecast commit dated 2026-11-16 12:01 UTC.
 - Zenodo DOI: [10.5281/zenodo.24280302](https://doi.org/10.5281/zenodo.24280302) (published 2026-11-16)
-- OSF project: [osf.io/3gp5r](https://osf.io/3gp5r/)
+- OSF registration: [osf.io/pbkf5](https://osf.io/pbkf5/) (registered 2026-11-16 12:14 UTC); project page [osf.io/3gp5r](https://osf.io/3gp5r/)
