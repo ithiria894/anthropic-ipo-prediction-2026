@@ -1,6 +1,6 @@
 # Anthropic IPO: got shares? Selling all on day one is safest; to aim for more, sell within 10 days. Didn't? Don't chase it on day one.
 
-We studied 60 of the biggest IPOs in history. All 30 that were priced the way Anthropic is expected to be priced closed their first day at or above the IPO price. But people who bought after trading started usually did not make money. Our forecast for Anthropic (stock ticker: ANT): if it is priced at $78 or more, as reports expect, a first-day rise of 15% to 25%; if it is priced lower, 0% to 10%.
+We studied 60 of the biggest IPOs in history. All 30 that were priced the way Anthropic is expected to be priced closed their first day at or above the IPO price. But people who bought after trading started usually did not make money. Our forecast for Anthropic (stock ticker: ANT): a first-day rise of 15% to 25%.
 
 Published before Anthropic sets its IPO price (expected Tuesday 2026-11-18) and starts trading on the Nasdaq stock exchange (expected Wednesday 2026-11-19), so anyone can check it afterwards.
 
@@ -8,7 +8,7 @@ Published before Anthropic sets its IPO price (expected Tuesday 2026-11-18) and 
 
 **If you got shares at the IPO price:**
 - History is on your side on day one. In all 30 similar IPOs, the stock closed day one at or above the IPO price.
-- Our forecast: if the IPO price is $78 or more (as reports expect), ANT closes day one **15% to 25% above** it, most likely around 20%. If it is priced lower, 0% to 10%. This is a deliberately narrow call: in the past only about 1 in 8 similar IPOs landed exactly in this window.
+- Our forecast: ANT closes day one **15% to 25% above** its IPO price, most likely around 20%. This is a deliberately narrow call: in the past only about 1 in 8 similar IPOs landed exactly in this window.
 - **The safest move:** sell everything at the end of day one. In all 30 similar IPOs, nobody who did this lost money.
 - **To aim for more, what we would do:** sell half at the end of day one. Sell the rest if the price falls 10% from its highest point after day one, and in any case by day 10.
 - Why not hold longer? In 18 of the 29 similar IPOs we could follow for three months, the price was lower on day 60 than at the end of day one.
@@ -58,7 +58,7 @@ News reports say Anthropic's orders are already **several times** the number of 
 
 If that is right, Anthropic lands in the hot groups, where the typical first-day rise was 19% to 25%. Demand pulls the other way: among hot IPOs with reported demand of 3 to just under 10 times, similar to Anthropic's, the typical rise was about 13%, though there are only 6 of them. We give more weight to the pricing signal, which is based on 30 IPOs.
 
-**So, if Anthropic prices at $78 or more, our forecast is +15% to +25% on day one, most likely around +20%. If it prices below $78, our forecast is 0% to +10%.** Past results in the hot groups ranged from flat to more than double, so this is a deliberately narrow call. We would rather be precise and possibly wrong than vague and certainly right.
+**So our forecast is +15% to +25% on day one, most likely around +20%.** Past results in the hot groups ranged from flat to more than double, so this is a deliberately narrow call. We would rather be precise and possibly wrong than vague and certainly right.
 
 ## Step 5: Thinking of buying on day one because it looks hot? Read this first
 
@@ -175,20 +175,18 @@ The betting markets also expect a gain on day one. At a $90 IPO price their most
 
 | # | Prediction | Share of similar past IPOs that landed in this range (the same IPOs we used to choose it) |
 |---|---|---|
-| 1 | If the final IPO price is **$78.00 or higher**: first-day return **+15% to +25%** (central estimate +20%) | 4 of 30 (13%) |
-| 2 | If the final IPO price is **below $78.00**: first-day return **0% to +10%** | 7 of 20 (35%) |
-| 3 | The highest price of ANT's first 60 trading days comes **on or before trading day 10** | 16 of 29 (55%) |
+| 1 | First-day return **+15% to +25%** (central estimate +20%) | 4 of 30 (13%) |
+| 2 | The highest price of ANT's first 60 trading days comes **on or before trading day 10** | 16 of 29 (55%) |
 
 These are deliberately narrow windows around our central estimates, not statistical confidence intervals: in the past only about one in eight similar IPOs landed inside +15% to +25%. A wider window (+10% to +40%) would have covered about half of them (14 of 30), but would say much less. The +20% does not adjust for the two ANT-specific risks in Step 9; if they matter, expect the lower half of the range or below.
 
 ### How we will score it (fixed before pricing)
 
 1. **R** = (Nasdaq Official Closing Price of ANT's Class A common stock on its first day of regular trading, or the last regular-session trade if no Official Closing Price is published ÷ final IPO price in the final prospectus filed under SEC Rule 424(b), normally a 424B4) − 1, unrounded.
-2. If the final IPO price is $78.00 or higher: #1 is a hit if +15% ≤ R ≤ +25%. #2 is not scored.
-3. If the final IPO price is below $78.00: #2 is a hit if 0% ≤ R ≤ +10%. #1 is not scored.
-4. #3: day 1 is ANT's first day of regular trading, and trading days are days on which ANT trades on Nasdaq. The 60-day high is the highest intraday price on trading days 1–60, as published by Nasdaq (or Yahoo Finance if Nasdaq's history is unavailable); ties go to the earliest day. Hit if that day is on or before trading day 10. Trading day 60 falls around 2027-02-17. If ANT trades for fewer than 60 days (for example, a halt or delisting), #3 is void.
-5. Outside a range is a miss. There is no partial credit.
-6. If ANT has not started trading on Nasdaq by 2026-12-31, or lists without an IPO price (for example, a direct listing), all predictions are void.
+2. #1 is a hit if +15% ≤ R ≤ +25%, whatever the final IPO price.
+3. #2: day 1 is ANT's first day of regular trading, and trading days are days on which ANT trades on Nasdaq. The 60-day high is the highest intraday price on trading days 1–60, as published by Nasdaq (or Yahoo Finance if Nasdaq's history is unavailable); ties go to the earliest day. Hit if that day is on or before trading day 10. Trading day 60 falls around 2027-02-17. If ANT trades for fewer than 60 days (for example, a halt or delisting), #2 is void.
+4. Outside a range is a miss. There is no partial credit.
+5. If ANT has not started trading on Nasdaq by 2026-12-31, or lists without an IPO price (for example, a direct listing), all predictions are void.
 
 We will post the day-one result on 2026-11-19 and the peak-timing result after trading day 60. The predictions are locked; later news does not change them.
 
