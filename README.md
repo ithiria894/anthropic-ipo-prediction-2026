@@ -17,6 +17,6 @@ Data, code and figures are in `data/`, `code/`, `figures/`; every number in the 
 
 ## Publication record
 
-- GitHub: this repository's first commit, `ed41af6` (2026-11-16 02:15 UTC).
-- Zenodo DOI: [10.5281/zenodo.24268809](https://doi.org/10.5281/zenodo.24268809) (published 2026-11-16)
-- OSF registration: [osf.io/hb8qy](https://osf.io/hb8qy/) (registered 2026-11-16 03:02 UTC); project page [osf.io/3gp5r](https://osf.io/3gp5r/)
+- GitHub: this repository; forecast commit dated 2026-11-16 12:01 UTC.
+- Zenodo DOI: [10.5281/zenodo.24280302](https://doi.org/10.5281/zenodo.24280302) (published 2026-11-16)
+- OSF project: [osf.io/3gp5r](https://osf.io/3gp5r/)
