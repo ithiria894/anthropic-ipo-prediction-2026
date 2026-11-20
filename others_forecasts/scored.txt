@@ -1,0 +1,17 @@
+Actual: $97.17 / $83.0 - 1 = +17.07%  (n=6 calls)
+
+## A_people_before_price  (n=2)
+  2026-11-16 12:01  ithiria894 (this forecast)                  pred +15.0% to +25.0%  → HIT (inside range)
+  2026-11-17 20:15  Matthew Kennedy (Renaissance Capital)       pred +20.5%  → CLOSE (within 5pp)  off by +3.4pp
+  tally: {'HIT (inside range)': 1, 'CLOSE (within 5pp)': 1} 
+
+## B_markets_before_price  (n=3)
+  2026-11-18 22:00  Polymarket: day-one move (top bracket)      pred +10.0% to +20.0%  → HIT (inside range)
+  2026-11-18 22:00  Polymarket: closing price (top bracket)     pred +8.4% to +20.5%  → HIT (inside range)
+  2026-11-18 22:00  Hyperliquid ANT perpetual                   pred +18.0%  → CLOSE (within 5pp)  off by +0.9pp
+  tally: {'CLOSE (within 5pp)': 1, 'HIT (inside range)': 2} 
+
+## C_after_price_known  (n=1)
+  2026-11-19 15:44  Gil Luria (D.A. Davidson)                   pred +20.5%  → CLOSE (within 5pp)  off by +3.4pp
+  tally: {'CLOSE (within 5pp)': 1} 
+

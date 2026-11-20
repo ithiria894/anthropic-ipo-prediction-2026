@@ -12,6 +12,8 @@
 
 "Don't chase it on day one": the first trade was $111.50 (+34.3% over the IPO price). Anyone who bought at that first trade was down 12.9% at the close. Source: [CBS News, 2026-11-19](https://www.cbsnews.com/news/anthropic-ipo-nasdaq-debut-claude-ai/).
 
+How other analysts and the prediction markets did: [`others_forecasts/`](others_forecasts/).
+
 Everything below this section is the forecast as published on 2026-11-16, before pricing. The forecast commit (`a62ec69`, 2026-11-16 12:01 UTC) and the OSF registration ([osf.io/pbkf5](https://osf.io/pbkf5/), 2026-11-16 12:14 UTC) show the original wording and date.
 
 We studied 60 of the biggest IPOs in history. All 30 that were priced the way Anthropic is expected to be priced closed their first day at or above the IPO price, but people who bought after trading started usually did not make money. Forecast: ANT closes day one 15% to 25% above its IPO price.
